@@ -31,4 +31,4 @@ Before running the application, you need to have the following programs and libr
 Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository.git
+git clone   https://your-repository.git](https://mega.nz/folder/fY9TiJJL#kd5x9kl0mndEuIdkRXLVFg
