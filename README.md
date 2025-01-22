@@ -1,5 +1,7 @@
-# Luxury-Wheels-2025
-This is a system for managing vehicles, customers, and reservations for a car rental business. The application allows for vehicle registration, listing, removal, and generating alerts for maintenance and inspections. It also provides charts on the number of vehicles per category.
+README.md
+# Luxury Wheels - Vehicle and Reservation Management System
+
+This is a system for managing vehicles, customers, and reservations for a car rental business. The application allows registering vehicles, listing them, removing them, and generating alerts for maintenance and inspections. It also provides charts on the number of vehicles per category.
 
 ## Requirements
 
@@ -10,7 +12,7 @@ Before running the application, you need to have the following programs and libr
 - **SQLite3** (for the database)
 - **Python Libraries**:
 - os
-- csv
+- csv   
 - io
 - flask (Flask, Flask-Login, Flask-SQLAlchemy, Flask-Mail)
 - sqlite3
@@ -28,5 +30,5 @@ Before running the application, you need to have the following programs and libr
 
 Clone the repository to your local machine:
 
-bash
+```bash
 git clone https://your-repository.git
